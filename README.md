@@ -42,7 +42,7 @@ Este repositório contém todas as soluções do teste prático para Desenvolved
 OBS: Repositorio com acesso publico
 
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/seu-repo-java-teste.git](https://github.com/ricardomasterdev/teste
+git clone https://github.com/ricardomasterdev/teste
 cd java-teste
 
 
