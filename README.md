@@ -1,6 +1,6 @@
 # Teste Prático Java Developer
 
-Este repositório contém todas as soluções do teste prático para Desenvolvedor Java, implementadas em **Java 24** com **Maven**, usando **IntelliJ IDEA 2022.2** como ambiente de desenvolvimento. Cada item do teste está documentado em PDF na pasta `docs/` e acompanhado da respectiva implementação em código Java.
+Este repositório contém todas as soluções do teste prático para Desenvolvedor Java, implementadas em **Java 24** com **Maven**, usando **IntelliJ IDEA 2022.2** como ambiente de desenvolvimento. Cada item do teste está documentado e respondido em PDF na raiz do projeto, acompanhado da respectiva implementação em código Java das questões 1 e 2.
 
 ---
 
